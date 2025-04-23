@@ -1,0 +1,7 @@
+Instalar dependencias necesarias (si estás en tu propio entorno):
+Si no tienes React Bootstrap, debes agregarlo:
+
+bash
+Copiar
+Editar
+npm install react-bootstrap bootstrap
